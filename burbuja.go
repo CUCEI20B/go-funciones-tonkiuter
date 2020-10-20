@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func Burbuja(s []int64) {
 
 	for i := 0; i < len(s); i++ {
@@ -16,10 +14,7 @@ func Burbuja(s []int64) {
 	}
 }
 
-/*func main() {
-	s := []int64{1, -10, 90, 14, -100, -2}
-	fmt.Println(len(s))
-	Burbuja(s)
-	fmt.Println(s)
+func main() {
 
-}*/
+
+}
