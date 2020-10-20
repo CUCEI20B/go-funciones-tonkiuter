@@ -16,10 +16,3 @@ func Burbuja(s []int64) {
 	}
 }
 
-func main() {
-	/*sa := []int64{9, 7, 8, 10, 5, 4, 3, 2, 1, 0, -1, -2, 5}
-	fmt.Println(len(sa))
-	Burbuja(sa)
-	fmt.Println(sa)*/
-
-}
